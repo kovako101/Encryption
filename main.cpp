@@ -8,7 +8,7 @@ int main(){
 	
 	
 	//startup	
-	std::string array [] = {"Q", "q"," W", "w", "E", "e", "R", "r", "T", "t", "Y", "y", "U", "u", "I", "i", "O", "o", "P", "p", "A", "a", "S", "s", "D", "d", "F", "f", "G", "g", "H", "h", "J", "j", "K", "k", "L", "l", "Z", "z", "X", "x", "C", "c", "V", "v", "B"," ", "b", "N", "n", "M", "m", "Q", "q", ",", ".", "!", "?"};
+	std::string array [] = {"Q", "q"," W", "w", "E", "e", "R", "r", "T", "t", "Y", "y", "U", "u", "I", "i", "O", "o", "P", "p", "A", "a", "S", "s", "D", "d", "F", "f", "G", "g", "H", "h", "J", "j", "K", "k", "L", "l", "Z", "z", "X", "x", "C", "c", "V", "v", "B", "b", "N", "n", "M", "m", ",", ".", "!"," ", "?", "Q", "q"};
 	char content;
 	std::ifstream original("original.txt");
 
